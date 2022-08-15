@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Welcome
 <div id="header" align="center"><img src"https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" /></div>
 
-https://img.shields.io/badge/LinkedIn-blue
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
