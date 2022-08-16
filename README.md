@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -37,4 +37,22 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+👨‍💻 About Me:
+I am a Frontend developer <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="30"/> from Nigeria.
+- 🔭 I'm currently working on building simple and effective websites and also contributing to frontend for building web applications.
+- 🌱 I’m currently learning React.js, Node.js.
+- 👯 I’m looking to collaborate on simple backend projects and open source projects.
+- ⚡ Fun fact: I am also a Brand and Graphic Designer!
+- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayokanmi-adeyemi-a598b5237) 
+
+---
+🛠️ Languages and Tools:
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
