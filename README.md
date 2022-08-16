@@ -50,9 +50,11 @@ I am a Frontend developer <img src="https://media.giphy.com/media/gjrYDwbjnK8x36
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayokanmi-adeyemi-a598b5237) 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="600" height="400"/>
 </div>
+
 ---
+
 🛠️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
