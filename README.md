@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **Sovrano28/Sovrano28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,6 +49,9 @@ I am a Frontend developer <img src="https://media.giphy.com/media/gjrYDwbjnK8x36
 - ⚡ Fun fact: I am also a Brand and Graphic Designer!
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayokanmi-adeyemi-a598b5237) 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="600" height="300"/>
+</div>
 ---
 🛠️ Languages and Tools:
 <div>
@@ -61,4 +64,7 @@ I am a Frontend developer <img src="https://media.giphy.com/media/gjrYDwbjnK8x36
 ---
 
 🔥My stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sovrano28&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovrano28&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
