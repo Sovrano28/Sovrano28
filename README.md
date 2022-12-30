@@ -1,5 +1,3 @@
-<!--### Hi there 👋-->
-
 <!--
 **Sovrano28/Sovrano28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +31,7 @@ Frontend Developer
 * 🌍  I'm based in Ilorin, Kwara State, Nigeria.
 * 🧠  I'm learning React.js, Node.js and Tailwind CSS.
 * 🤝  I'm open to collaborating on website design and development or other interesting tech projects in general.
-* ⚡  I am also a Graphic Designer.
+* ⚡  I also do great graphic design .
 
 ### Skills
 
@@ -51,7 +49,7 @@ Frontend Developer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/coreldraw-icon.svg" width="36" height="36" alt="coreldraw" />
-<img src="![image](https://user-images.githubusercontent.com/101461930/210110966-b3ebce1a-adc7-4ab8-a6f0-090881b3c772.png)" width="36" height="36" alt="canva" />
+<img src="https://img.icons8.com/fluency/36/null/canva.png"/>
 </p>
 
 
