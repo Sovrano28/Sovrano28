@@ -51,7 +51,7 @@ Frontend Developer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/coreldraw-icon.svg" width="36" height="36" alt="coreldraw" />
-<img src="https://icons8.com/icon/iWw83PVcBpLw/canva" width="36" height="36" alt="canva" />
+<img src="![image](https://user-images.githubusercontent.com/101461930/210110966-b3ebce1a-adc7-4ab8-a6f0-090881b3c772.png)" width="36" height="36" alt="canva" />
 </p>
 
 
