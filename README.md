@@ -19,54 +19,58 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="200"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ayokanmi-adeyemi-a598b5237">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <!-- <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-  <a href="https://twitter.com/Emmanuel1Joshua">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 <div id="profile-view-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Sovrano28&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="600" height="300"/>
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayokanmi Adeyemi
+========================================================================================================================================
 
----
+Frontend Developer
+------------------
 
-👨‍💻 About Me:
-I am a Frontend developer <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="30"/> from Nigeria.
-- 🔭 I'm currently working on building simple and effective websites and also contributing to frontend for building web applications.
-- 🌱 I’m currently learning React.js, Node.js.
-- 👯 I’m looking to collaborate on simple backend projects and open source projects.
-- ⚡ Fun fact: I am also a Brand and Graphic Designer!
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayokanmi-adeyemi-a598b5237) 
+* 🌍  I'm based in Ilorin, Kwara State, Nigeria.
+* 🧠  I'm learning React.js, Node.js and Tailwind CSS.
+* 🤝  I'm open to collaborating on website design and development or other interesting tech projects in general.
+* ⚡  I am also a Graphic Designer.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="600" height="400"/>
-</div>
+### Skills
 
----
 
-🛠️ Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="" width="40" height="40"/>&nbsp
-</div>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
 
----
+<p align="left">
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/coreldraw-icon.svg" width="36" height="36" alt="coreldraw" />
+<img src="https://icons8.com/icon/iWw83PVcBpLw/canva" width="36" height="36" alt="canva" />
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.behance.com/ayokanmiadeyemi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/Sovrano28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/sovrascript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sovrano28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sovrano_gfx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ayokanmi-adeyemi-a598b5237" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ayokanmi_1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Sovrano28"><img src="https://github-readme-stats.vercel.app/api?username=Sovrano28&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0f172a&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="Sovrano28's GitHub stats" /></a>
+
+<a href="http://www.github.com/Sovrano28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sovrano28&stroke=0f172a&background=ffffff&ring=f97316&fire=f97316&currStreakNum=0f172a&currStreakLabel=f97316&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+
+<a href="http://www.github.com/Sovrano28"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sovrano28&bg_color=ffffff&color=0f172a&line=a855f7&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Sovrano28" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sovrano28&langs_count=10&title_color=f97316&text_color=0f172a&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 🔥My stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sovrano28&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovrano28&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
