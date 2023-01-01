@@ -33,9 +33,7 @@ Frontend Developer
 * 🤝  I'm open to collaborating on website design and development or other interesting tech projects in general.
 * ⚡  I also do great graphic design .
 
-###Programming Tools/Languages
-
-
+### Programming Tools/Languages
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -67,4 +65,4 @@ Frontend Developer
 
 <a href="http://www.github.com/Sovrano28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sovrano28&stroke=0f172a&background=ffffff&ring=f97316&fire=f97316&currStreakNum=0f172a&currStreakLabel=f97316&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovrano28&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovrano28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
