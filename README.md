@@ -63,6 +63,6 @@ Frontend Developer
 
 <a href="http://www.github.com/Sovrano28"><img src="https://github-readme-stats.vercel.app/api?username=Sovrano28&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=f97316a&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Sovrano28's GitHub stats" /></a>
 
-<a href="http://www.github.com/Sovrano28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sovrano28&stroke=0f172a&background=000000&ring=f97316&fire=f97316&currStreakNum=0f172a&currStreakLabel=f97316&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+<a href="http://www.github.com/Sovrano28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sovrano28&stroke=f97316&background=000000&ring=f97316&fire=f97316&currStreakNum=f97316&currStreakLabel=f97316&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovrano28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
