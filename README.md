@@ -61,7 +61,7 @@ Frontend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Sovrano28"><img src="https://github-readme-stats.vercel.app/api?username=Sovrano28&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0f172a&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="Sovrano28's GitHub stats" /></a>
+<a href="http://www.github.com/Sovrano28"><img src="https://github-readme-stats.vercel.app/api?username=Sovrano28&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=f97316a&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Sovrano28's GitHub stats" /></a>
 
 <a href="http://www.github.com/Sovrano28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sovrano28&stroke=0f172a&background=ffffff&ring=f97316&fire=f97316&currStreakNum=0f172a&currStreakLabel=f97316&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
