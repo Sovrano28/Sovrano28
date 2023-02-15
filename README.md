@@ -29,9 +29,9 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Ilorin, Kwara State, Nigeria.
-* 🧠  I'm learning React.js, Node.js and Tailwind CSS.
+* 🧠  I'm currently learning React.Js and Node.Js.
 * 🤝  I'm open to collaborating on website design and development or other interesting tech projects in general.
-* ⚡  I also do great graphic design .
+* ⚡  Fun fact: I also do great graphic design.
 
 ### Programming Tools/Languages
 <p align="left">
