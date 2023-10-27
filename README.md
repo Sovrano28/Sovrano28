@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"width="36" height="36" />
 <img src="./img/postcss.png" width="36" height="36" alt="PostCSS" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"width="36" height="36" />
 <img src="./img/react-native.svg" width="40" height="40" alt="React Native" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" />
