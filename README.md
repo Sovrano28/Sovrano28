@@ -26,27 +26,27 @@ Here are some ideas to get you started:
 ## Frontend Developer
 
 - 🌍  I'm based in Ilorin, Kwara State, Nigeria.
-- 🧠  I'm currently learning React.Js and React Native.
+- 🧠  I'm currently Decoding the mysteries of React.JS and React Native, one State/Component/Prop at a time.
 - 🤝  I'm open to collaborating on website design and development or other interesting tech projects in general.
-- ⚡  Fun fact: I also do great graphic design.
+- ⚡  Fun fact: I also do great graphic design!
 
 ### Programming Tools/Languages
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-<img src="./img/react-native.svg" width="36" height="36" />
-<img src="./img/react-native.svg" />
-<img src="./img/react-native-1.svg" width="36" height="36" />
-<img src="./img/react-native-1.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"width="36" height="36" />
+<img src="./img/postcss.png" width="36" height="36" alt="PostCSS" />
+<img src="./img/react-native.svg" width="40" height="40" alt="React Native" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="36" height="36"/>
 &nbsp;
 
 </p>
@@ -54,10 +54,11 @@ Here are some ideas to get you started:
 ### Design tools
 
 <p align="left">
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<img width="36" height="36" src="https://img.icons8.com/fluency/48/coreldraw-2021.png" alt="coreldraw-2021"/>
-<img src="https://img.icons8.com/fluency/36/null/canva.png"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
+<img width="36" height="36" src="https://img.icons8.com/fluency/48/coreldraw-2021.png" alt="CorelDraw"/>
+<img src="https://img.icons8.com/fluency/36/null/canva.png" width="36" height="36" alt="Canva" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </p>
 
 ### Socials
@@ -66,8 +67,8 @@ Here are some ideas to get you started:
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Sovrano28"><img src="https://github-readme-stats.vercel.app/api?username=Sovrano28&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=f97316a&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Sovrano28's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Sovrano28&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=f97316a&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Sovrano28's GitHub stats" />
 
-<a href="http://www.github.com/Sovrano28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sovrano28&stroke=bbbbbb&background=000000&ring=f97316&fire=f97316&currStreakNum=bbbbbb&currStreakLabel=f97316&sideNums=bbbbbb&sideLabels=bbbbbb&dates=bbbbbb&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sovrano28&stroke=bbbbbb&background=000000&ring=f97316&fire=f97316&currStreakNum=bbbbbb&currStreakLabel=f97316&sideNums=bbbbbb&sideLabels=bbbbbb&dates=bbbbbb&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovrano28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
