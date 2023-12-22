@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayokanmi Adeyemi
 
-## Frontend Developer
+## Frontend Engineer
 
 - 🌍  I'm based in Ilorin, Kwara State, Nigeria.
-- 🧠  I'm currently Decoding the mysteries of React.JS and React Native, one State/Component/Prop at a time.
-- 🤝  I'm open to collaborating on website design and development or other interesting tech projects in general.
+- 🧠  I'm currently decoding the mysteries of React.JS and React Native, one state, component and prop at a time.
+- 🤝  I'm open to collaborating on mobile or web application design and development or other interesting tech projects in general.
 - ⚡  Fun fact: I also do great graphic design!
 
 ### Programming Tools/Languages
