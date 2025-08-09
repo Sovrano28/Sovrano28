@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sovrano28&stroke=bbbbbb&background=000000&ring=f97316&fire=f97316&currStreakNum=bbbbbb&currStreakLabel=f97316&sideNums=bbbbbb&sideLabels=bbbbbb&dates=bbbbbb&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovrano28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sovrano28&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
